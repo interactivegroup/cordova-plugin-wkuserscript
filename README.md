@@ -32,7 +32,7 @@ Please notice that this plugin requires you to use WKWebView.
 
 This plugin isn't published in npm yet, so it must be installed via repo url:
 
-    cordova plugin add  https://github.com/moodlemobile/cordova-plugin-wkuserscript
+    cordova plugin add  https://github.com/interactivegroup/cordova-plugin-wkuserscript
 
 
 ## Methods
